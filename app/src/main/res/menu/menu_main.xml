@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Profile"
+        android:id="@+id/id_profile"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+    />
+    <item android:title="Setting"
+        android:id="@+id/id_setting"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        />
+    <item android:title="Exit"
+        android:id="@+id/id_exit"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+/>
+    <item android:title="Update"
+        android:id="@+id/id_update"
+        android:orderInCategory="103"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Upload"
+        android:id="@+id/id_upload"
+        android:orderInCategory="104"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="tools"
+        android:id="@+id/id_tool"
+        android:orderInCategory="105"
+        app:showAsAction="never"
+        />
+<item
+    android:title="download"
+    android:id="@+id/id_download"
+    android:orderInCategory="106"
+    app:showAsAction="never"
+    />
+    <item
+        android:title="share"
+        android:id="@+id/id_share"
+        android:orderInCategory="107"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Help"
+        android:id="@+id/id_help"
+        android:orderInCategory="108"
+        app:showAsAction="never"
+        />
+
+</menu>
